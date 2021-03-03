@@ -1,4 +1,4 @@
-module github.com/prestosql/presto-go-client
+module github.com/nooberfsh/presto-go-client
 
 go 1.14
 
